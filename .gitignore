@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+qq_docs_state.json
+screenshots/
+
+.vscode/
+.claude/
